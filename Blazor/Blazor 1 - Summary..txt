@@ -1,0 +1,69 @@
+Scrum Development: 
+	1. Roles:
+		Product Onwer: Manages the product backlog, tasks and represents the stakeholders.
+		Scrum Master: Facilitates Scrum practices, removes impediments and helps team to stay focused.
+		Development Team: Group of responsible developers to deliver the product increment.
+	2. Artifacts:
+		Product Backlog: A list of prioritised work needed for the project.
+		Sprint Backlog: Selected tasks from the backlog to be commited by the development team.
+		Increment: All completed backlog items during a sprint.
+	3. Events
+		Sprint: (Time-boxed period) where development team work to complete the sprint backlog items.
+		Sprint Planning: Start of each sprint where team selects items from the product backlog to work on.
+		Daily Scrum: Short, daily meeting where team members syncrhonise their work and plan for the day.
+		Sprint Review: A meeting at the end of the sprint to discuss work done to stakeholders and next.
+		Sprint Retrospective: The team reflects on the sprint process and identifies areas for improvement.
+	
+
+Advantages:
+	Improved collaboration, flexiable and adaptability. 
+	Higher quality products, tranparency and increased productivity.
+
+
+___
+
+Object Oriented Programming is ideal in development teams because of the potential it 
+encapsulates for dealing with real-world entities effectively. 
+
+1. Abstraction
+	enhances code readability and maintainability by providing a high-level 
+	view of the system's functionalities, making it easier for developers to comprehend and work with complex structures.
+2. Encapsulation
+	bundling data and the methods that operate on that data into a single unit, known as an object.
+	
+3. Polymorphism
+	this introduces the concept of 'many forms' to be of different types 
+	while being treated as an instance of a standard base class
+
+4. Inheritance
+	allows a new class to inherit the properties and methods of the main class, 
+	promoting the reusability of code and preventing redundancy.
+
+Designs:
+
+	Microservices-Oriented Design
+	Domain-Driven Design (DDD)
+	CQRS (Command Query Reponsibility Segregation)
+	AI-Driven Code Generation and Refactoring
+
+___
+
+Blazor is a UI Framework. By leveraging the power of Web Assembly, 
+it allows us to eliminate Javascript use but instead use C#.
+
+Thanks to WASM we can run our favourite .net libraries in the browser.
+
+.Razor.
+
+Advanatages:
+
+1. Allows us to not use the import like how we use in React.js, vue.js and angular.
+2. Dependency Injection allows us to inject any components using the Shared folder.
+3. Just like any other javascript framework we can create components which can be 
+   reused / injected many times as we want.
+4. With WebAssemby, Blazor applications can achieve near-native performance in the browser.
+   This ensures that applications are reposnive and capable of handling complex interactions and data processing tasks.
+
+___
+
+Trends:
